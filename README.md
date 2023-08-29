@@ -1,3 +1,5 @@
+> IMPORTANT: This code is made available in the hope that it will be useful, but without any warranty. See the GNU General Public License for more details. Automattic or WooCommerce support services are also not available to assist with the use of this code.
+
 # WooCommerce Subscriptions - Schedule Cache Generation
 
 Schedule the `'wcs_generate_related_order_cache'` and `'wcs_generate_customer_subscription_cache'` actions if they are not already scheduled.
